@@ -1,0 +1,16 @@
+-e .
+dill==0.3.8
+gymnasium==0.29.1
+matplotlib==3.8.2
+numpy==1.23.5
+pandas==2.2.1
+sb3_contrib==2.2.1
+scikit_learn==1.4.0
+stable_baselines3==2.2.1
+jupyter_client==8.6.0
+jupyter_core==5.7.1
+jupyterlab_pygments==0.3.0
+jupyterlab_widgets==3.0.10
+ipykernel==6.29.2
+ipython==8.12.3
+ipywidgets==8.1.2
